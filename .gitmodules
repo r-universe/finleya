@@ -4,10 +4,10 @@
 	branch = HEAD
 [submodule "MBA"]
 	path = MBA
-	url = https://github.com/cran/MBA
+	url = https://github.com/finleya/mba
 [submodule "spBayes"]
 	path = spBayes
-	url = https://github.com/cran/spBayes
+	url = https://github.com/finleya/spbayes
 [submodule "spNNGP"]
 	path = spNNGP
-	url = https://github.com/cran/spNNGP
+	url = https://github.com/finleya/spnngp
