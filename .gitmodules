@@ -11,3 +11,6 @@
 [submodule "spNNGP"]
 	path = spNNGP
 	url = https://github.com/finleya/spnngp
+[submodule "stLMM"]
+	path = stLMM
+	url = https://github.com/finleya/stlmm
